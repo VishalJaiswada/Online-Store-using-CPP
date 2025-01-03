@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "ctime": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "deque": "cpp",
+        "vector": "cpp"
+    }
+}
