@@ -9,7 +9,15 @@ This project is an **Online Store** implemented in **C++** using the **Standard 
 
 ## Technology Stack
 - **Language**: C++
-- **Libraries**: STL (Vectors, Maps, Sets, Algorithms, etc.)
+- **Libraries**: STL (Vectors-> store a list of products,
+list -> orders.
+deque -> visits,
+set -> unique category,
+map -> stock count,
+multimap -> allowing multiple order per customer,
+unordered_map -> to store customer id,
+unordered_set -> to store duplicate elements
+ etc.)
 - **Development Environment**: [ e.g., Visual Studio]
 
 ---
